@@ -19,3 +19,4 @@ nome-varchar
 criamos duas relaÇões com as seguintes finalidades 1:1 e 1:N 
 
 ## autore Yasmin vilhena
+![image](https://user-images.githubusercontent.com/114528129/212334669-c486642f-3f0a-4586-96f8-19e5601b93ca.png)
