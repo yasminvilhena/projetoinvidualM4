@@ -18,4 +18,4 @@ nome-varchar
 
 criamos duas relaÇões com as seguintes finalidades 1:1 e 1:N 
 
-## autores Yasmin vilhena
+## autore Yasmin vilhena
